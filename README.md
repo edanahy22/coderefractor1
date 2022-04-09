@@ -12,6 +12,6 @@ HTML features were changed to semantic HTML features and CSS features were conde
 
 Here is an image of the web application: 
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/01-html-css-git-homework-demo.png)
 
 Here is a URL to the web application: ![Horiseon's web application URL](https://edanahy22.github.io/horiseon-refactor/)
