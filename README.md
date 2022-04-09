@@ -14,4 +14,4 @@ Here is an image of the web application:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
-The following is a URL to the web application: ![Horiseon's web application URL](https://edanahy22.github.io/horiseon-refactor/)
+The following is a URL to the web application: [Horiseon's web application URL](https://edanahy22.github.io/horiseon-refactor/)
